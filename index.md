@@ -127,3 +127,8 @@ SPJ 有六个命令行参数, 分别为:
 一个例子如下.
 
 ![](/staticdata/tutorial/pics/text.png)
+
+#### 完整的例子
+下面是一个完整题目配置的例子
+
+![](/staticdata/tutorial/pics/fullsample.png)
